@@ -1,0 +1,96 @@
+.header{
+    background-color: black;
+    color: white;
+    height: 100px;
+    line-height: 100px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.mainbody{
+    background-color: whitesmoke;
+    left: 5px;
+    right: 5px;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    height: 25px;
+    bottom: 0px;
+    position: fixed;
+    left:5px;
+    right:5px;
+    padding-top: 15px;
+    font-size: 15px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+
+}
+
+.common{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+nav{
+    background-color: lightgray;
+    padding: 10px;
+    overflow: hidden;
+
+}
+
+nav a{
+    float: left;
+    padding: 13px;
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+nav a:hover{
+    background-color: beige;
+}
+
+#youtube{
+    width: 1200px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.unlist{
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.orlist{
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.empText{
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
